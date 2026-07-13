@@ -217,15 +217,3 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-.ipynb_checkpoints/
-*.joblib
-.DS_Store
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Saved models
-*.joblib
-
-# macOS files
-.DS_Store
